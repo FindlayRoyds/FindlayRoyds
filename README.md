@@ -2,7 +2,7 @@
 
 I'm a computer science honours student at the University of Canterbury, New Zealand.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=findlayroyds&layout=compact)
+![Top Langs](https://github-readme-stats-git-main-findlayroyds-projects.vercel.app/api/top-langs/?username=findlayroyds&layout=compact)
 
 <!--
 **FindlayRoyds/FindlayRoyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
