@@ -1,6 +1,6 @@
 ## Hi, I'm Findlay Royds 👋
 
-I'm a computer science honours student at the University of Canterbury, New Zealand.
+I'm currently studying computer science with honours at the University of Canterbury, New Zealand.
 
 ![Top Langs](https://github-readme-stats-git-main-findlayroyds-projects.vercel.app/api/top-langs/?username=findlayroyds&layout=compact)
 
