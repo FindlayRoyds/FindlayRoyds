@@ -2,7 +2,9 @@
 
 I'm currently studying computer science with honours at the University of Canterbury, New Zealand.
 
-![Top Langs](https://github-readme-stats-git-main-findlayroyds-projects.vercel.app/api/top-langs/?username=findlayroyds&layout=compact)
+You can see some of my personal projects at [findlayroyds.com](https://www.findlayroyds.com).
+
+![Top Langs](https://github-readme-stats-git-main-findlayroyds-projects.vercel.app/api/top-langs/?username=findlayroyds&layout=compact&exclude_repo=LearnOpenGL,github-readme-stats,next-netlify-starter,prototyping,wof-frontend&hide=HTML,CSS,GDScript&langs_count=8)
 
 <!--
 **FindlayRoyds/FindlayRoyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
