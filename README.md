@@ -6,6 +6,8 @@ You can see some of my personal projects at [findlayroyds.com](https://www.findl
 
 ![Top Langs](https://github-readme-stats-git-main-findlayroyds-projects.vercel.app/api/top-langs/?username=findlayroyds&layout=compact&exclude_repo=LearnOpenGL,github-readme-stats,next-netlify-starter,prototyping,wof-frontend&hide=HTML,CSS,GDScript&langs_count=8)
 
+![Cambio Rank](http://ladsflat.ddns.net/cambio/findlay)
+
 <!--
 **FindlayRoyds/FindlayRoyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
